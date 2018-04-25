@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/initial_boat.unity
+  isLoaded: 1
+  isActive: 1
